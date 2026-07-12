@@ -26,9 +26,9 @@ The AI never guesses. Every claim it makes is backed by a tool call against the 
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ 
 
-> _Add screenshots or a short GIF of the chat + reasoning log panel here once deployed._
+
 
 | Chat | Reasoning Log |
 |---|---|
